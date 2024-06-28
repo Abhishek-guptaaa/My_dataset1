@@ -2,18 +2,18 @@
 
 Step dataset:
 
-git clone https://github.com/Abhishek-guptaaa/My_dataset1.git
+1. git clone https://github.com/Abhishek-guptaaa/My_dataset1.git
 
-cd My_dataset1
+2. cd My_dataset1
 
-git lfs install
+3. git lfs install
 
-git lfs track "*.zip"
+4. git lfs track "*.zip"
 
-git add .gitattributes
+5. git add .gitattributes
 
-git add archive.zip     # archive is my file name
+6. git add archive.zip     # archive is my file name
 
-git commit -m "Add ZIP file"
+7. git commit -m "Add ZIP file"
 
-git push origin main
+8. git push origin main
